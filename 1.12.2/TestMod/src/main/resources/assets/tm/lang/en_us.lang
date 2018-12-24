@@ -1,0 +1,5 @@
+//Items
+item.cage.name=Cage
+
+//Blocks
+tile.cage_block.name=Cage Block
